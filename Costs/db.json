@@ -2,11 +2,11 @@
   "projects": [
     {
       "id": "408c",
-      "name": "Costs",
-      "budget": "25000",
+      "name": "Costs V1",
+      "budget": "55000",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "4",
+        "name": "Planejamento"
       },
       "cost": 0,
       "services": []
