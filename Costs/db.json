@@ -8,21 +8,8 @@
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 435,
-      "services": [
-        {
-          "name": "Teste",
-          "cost": "123",
-          "description": "aa",
-          "id": "134ea8f8-0a90-4bb3-9403-d465a40320f2"
-        },
-        {
-          "name": "Te4ste",
-          "description": "312321",
-          "cost": "312",
-          "id": "e56b3e9d-e668-4514-897d-fa3169af07f5"
-        }
-      ]
+      "cost": 0,
+      "services": []
     },
     {
       "id": "9d5c",
